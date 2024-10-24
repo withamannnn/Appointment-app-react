@@ -16,7 +16,6 @@ This is a web application that allows students to book appointments with teacher
 - **Backend**: Firebase Authentication, Firestore Database
 - **UI Library**: Tailwind CSS (optional if used)
 - **State Management**: React Hooks
-- **Deployment**: Firebase Hosting (optional)
 
 ## Setup Instructions
 
